@@ -39,7 +39,7 @@
     <Reference Include="System.Web.Extensions" />
     <Reference Include="System.Web.Abstractions" />
     <Reference Include="System.Web.Mvc, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
-      <Private>True</private>
+      <Private>True</Private>
       <SpecificVersion>False</SpecificVersion>
     </Reference>
     <Reference Include="System.Xml.Linq" />
